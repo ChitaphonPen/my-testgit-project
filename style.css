@@ -28,3 +28,16 @@ nav {
     }
   }
 }
+
+header {
+  background-color: blanchedalmond;
+  text-align: center;
+  display: flex;
+  padding: 3rem;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+font-size: 3rem;
+}
